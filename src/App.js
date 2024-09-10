@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "./components/Header";
-import Home from "./components/Home";
-import Footer from "./components/Footer";
+import Header from "./component/Header";
+import Home from "./component/Home";
+import Footer from "./component/Footer";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Test from "./components/Test"
-import Test2 from "./components/Test2"
-import Test3 from "./components/Test3"
-import Test4 from "./components/Test4";
+import Test from "./component/Test"
+import Test2 from "./component/Test2"
+import Test3 from "./component/Test3"
+import Test4 from "./component/Test4";
 
 
 function App() {
